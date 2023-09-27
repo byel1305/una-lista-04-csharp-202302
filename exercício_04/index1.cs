@@ -15,7 +15,8 @@ class Program
             {
                 Console.WriteLine("Valor inválido. A nota deve estar entre 0 e 10.");
             }
-        } 
+        } while (nota < 0 || nota > 10);
 
         Console.WriteLine($"Você digitou a nota {nota}. Obrigado!");
     }
+}
