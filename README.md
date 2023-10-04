@@ -9,4 +9,4 @@
 - Ryan Augusto   Ra: 62112295
 - Rodrigo Duarte Ra: 62110491
   
-- Exercício 2 😄⚡
+- Exercício 4 😄⚡
